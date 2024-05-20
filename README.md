@@ -33,3 +33,10 @@
 
 ---
 
+### ⚡ Stats ⚡ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhdrzki&show_icons=true&theme=gruvbox)
+
+![GitHub Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=akhdrzki&layout=compact&theme=gruvbox)
+
+---
+
