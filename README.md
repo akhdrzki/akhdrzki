@@ -1,3 +1,7 @@
+<a href='https://github.com/Safouene1/support-palestine-banner'>
+  <img src='https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg' alt='Support Palestine' width='100%' />
+</a>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Akhadi+Rizki....;Nice+to+meet+you!&center=true&size=25">
@@ -35,7 +39,7 @@
 ---
 
 ### ⚡ Stats ⚡ 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhdrzki&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhdrzki&show_icons=true&theme=gruvbox)
 
 ![GitHub Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=akhdrzki&layout=compact&theme=gruvbox)
 
